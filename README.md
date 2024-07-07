@@ -12,7 +12,7 @@ I've joined GitHub to help develop my technology skills. I've got a couple of pr
 - Product?
 
 ## Contact me
-Find me over on [LinkedIn](www.linkedin.com) 
+Find me over on [LinkedIn](https://www.linkedin.com/in/kit-france-a1a3b874/) 
 
 ---
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
