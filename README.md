@@ -15,13 +15,16 @@ A few project ideas:
 - Product price scraper
 - Product???
 
-## Contact me
+### Contact me
 
 Find me over on [LinkedIn](https://www.linkedin.com/in/kit-france-a1a3b874/)
 
-### Octodex
+#### My GitHub username
+My username is a homage to Coquetdale. Makendon is the last Coquet farm before the Roman fort of Chew Green. Check it out:
 
-![Image of Octobi Wan Catnobi](https://octodex.github.com/images/octobiwan.jpg)
+![Makendon, Upper Coquestdale](http://s0.geograph.org.uk/geophotos/01/82/23/1822399_0060be54.jpg)
+
+*Photo Credit: Andrew Curtis*
 
 ---
 > This README has been optimized for accessibility based on GitHub's blogpost
